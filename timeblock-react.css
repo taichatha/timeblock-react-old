@@ -86,6 +86,12 @@ table, th, tr, td {
   height: 80px;
   width: 80px;
 }
+
+.error {
+  color: red;
+
+}
+
 li {
   position: relative;
   list-style: none;

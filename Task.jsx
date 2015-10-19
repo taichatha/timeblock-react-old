@@ -16,6 +16,8 @@ Task = React.createClass({
           &times;
         </button>
 				<span className="Task">{this.props.task.text}</span>
+				<br/>
+				<span className="Time">{this.props.task.startTime} - {this.props.task.endTime}</span>
 			</li>
 			)
 	}
