@@ -1,5 +1,5 @@
 //Define a coolection to hold our logs
-// Logs = new Mongo.Collection("logs");
+Tasks = new Mongo.Collection("tasks");
 // Sets = new Mongo.Collection("sets");
 // Lifts = new Mongo.Collection("lifts");
 

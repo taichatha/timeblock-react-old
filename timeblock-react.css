@@ -78,6 +78,14 @@ ul {
   position: relative;
 }
 
+table, th, tr, td {
+  border: 1px solid black;
+}
+
+.hour-cell {
+  height: 80px;
+  width: 80px;
+}
 li {
   position: relative;
   list-style: none;
